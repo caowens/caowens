@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="silver-glasses-memoji.png" width="100"/>
+  <img src="silver-glasses-memoji.png" width="200"/>
   <br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/alex-owens-ab868b1b6/">
