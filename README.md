@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   </div>
   <img src="https://komarev.com/ghpvc/?username=caowens&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Hi, I'm Alex
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -31,3 +31,15 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="codingcodingcoding.gif" width="500" height="300" />
 </div>
+
+---
+<!-- Programming Languages Python,  Java, HTML5 & CSS,  JavaScript, C#, Swift, SQL, PowerShell
+Frameworks & Libraries Bootstrap, React.js, Tensorflow, Spring Boot, Firebase -->
+### :laptop: Programming Languages :
+[![My Programming Languages](https://skillicons.dev/icons?i=python,java,html,css,javascript,cs,swift,powershell&theme=dark)](https://skillicons.dev)
+
+### :books: Frameworks and Libraries :
+[![My Programming Languages](https://skillicons.dev/icons?i=nodejs,react,firebase,bootstrap,tailwind,tensorflow&theme=dark)](https://skillicons.dev)
+
+### :hammer_and_wrench: Other tools :
+[![My Programming Languages](https://skillicons.dev/icons?i=mongodb,figma,vscode,vite,stackoverflow,raspberrypi,postman,git&theme=dark)](https://skillicons.dev)
