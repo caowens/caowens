@@ -36,13 +36,13 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 <div align="center">
   <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=caowens&theme=transparent" alt="Github Streaks"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=caowens&show_icons=true&theme=transparent" alt="Github Stats"/>
   </div>
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caowens&layout=compact&theme=transparent&langs_count=8" alt="Top Languages"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=caowens&theme=transparent" alt="Github Streaks"/>
   </div>
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caowens&show_icons=true&theme=transparent" alt="Github Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caowens&layout=compact&theme=transparent&langs_count=8" alt="Top Languages"/>
   </div>
 </div>
 
