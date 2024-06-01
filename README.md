@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="silver-glasses-memoji.png" width="100"/>
   <br>
   <div id="badges">
-    <a href="[your-linkedin-URL](https://www.linkedin.com/in/alex-owens-ab868b1b6/)">
+    <a href="https://www.linkedin.com/in/alex-owens-ab868b1b6/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
