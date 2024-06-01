@@ -27,15 +27,33 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-
+<!--
 <div align="center">
   <img src="codingcodingcoding.gif" width="500" height="300" />
 </div>
+-->
+
+### :fire: My Stats :
+<div align="center">
+  <div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=caowens&theme=transparent" alt="Github Streaks"/>
+  </div>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caowens&layout=compact&theme=transparent&langs_count=8" alt="Top Languages"/>
+  </div>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caowens&show_icons=true&theme=transparent" alt="Github Stats"/>
+  </div>
+</div>
+
+<!--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=caowens&theme=transparent)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caowens&layout=compact&theme=transparent&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=caowens&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ---
-<!-- Programming Languages Python,  Java, HTML5 & CSS,  JavaScript, C#, Swift, SQL, PowerShell
-Frameworks & Libraries Bootstrap, React.js, Tensorflow, Spring Boot, Firebase -->
-### :laptop: Programming Languages :
+### :computer: Programming Languages :
 [![My Programming Languages](https://skillicons.dev/icons?i=python,java,html,css,javascript,cs,swift,powershell&theme=dark)](https://skillicons.dev)
 
 ### :books: Frameworks and Libraries :
