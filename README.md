@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 [![My Programming Languages](https://skillicons.dev/icons?i=python,java,html,css,javascript,cs,swift,powershell&theme=dark)](https://skillicons.dev)
 
 ### :books: Frameworks and Libraries :
-[![My Programming Languages](https://skillicons.dev/icons?i=nodejs,react,firebase,bootstrap,tailwind,tensorflow&theme=dark)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=nodejs,react,firebase,bootstrap,tailwind,threejs,tensorflow&theme=dark)](https://skillicons.dev)
 
 ### :hammer_and_wrench: Other tools :
 [![My Programming Languages](https://skillicons.dev/icons?i=mongodb,figma,vscode,vite,stackoverflow,raspberrypi,postman,git&theme=dark)](https://skillicons.dev)
