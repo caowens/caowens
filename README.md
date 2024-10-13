@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ---
 ### :computer: Programming Languages :
-[![My Programming Languages](https://skillicons.dev/icons?i=python,java,html,css,javascript,cs,swift,powershell&theme=dark)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=python,java,html,css,javascript,typescript,cs,swift,powershell&theme=dark)](https://skillicons.dev)
 
 ### :books: Frameworks and Libraries :
 [![My Programming Languages](https://skillicons.dev/icons?i=nodejs,react,firebase,bootstrap,tailwind,threejs,tensorflow&theme=dark)](https://skillicons.dev)
