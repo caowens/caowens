@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src="codingcodingcoding.gif" width="500" height="300" />
 </div>
 -->
-
+<--!
 ### :fire: My Stats :
 <div align="center">
   <div align="center">
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caowens&layout=compact&theme=transparent&langs_count=8" alt="Top Languages"/>
   </div>
 </div>
+-->
 
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=caowens&theme=transparent)](https://git.io/streak-stats)
