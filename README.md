@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src="codingcodingcoding.gif" width="500" height="300" />
 </div>
 -->
-<--!
+<!--
 ### :fire: My Stats :
 <div align="center">
   <div align="center">
